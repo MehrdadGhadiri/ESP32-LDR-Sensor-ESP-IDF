@@ -1,0 +1,11 @@
+# Build directories
+build/
+build-*/
+
+# ESP-IDF specific
+sdkconfig.old
+sdkconfig.defaults
+
+# VS Code
+.vscode/
+*.code-workspace
